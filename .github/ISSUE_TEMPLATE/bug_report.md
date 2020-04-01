@@ -1,27 +1,24 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: "Bug report 🐛"
+about: Report errors or unexpected behavior
 title: ''
 labels: ''
 assignees: ''
 
 ---
+# Environment
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+```Browser (), OS ()
+```
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+# Steps to reproduce
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+<!-- A description of how to trigger this bug. -->
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+# Expected behavior
 
-**Additional context**
-Add any other context about the problem here.
+<!-- A description of what you're expecting, possibly containing screenshots or reference material. -->
+
+# Actual behavior
+
+<!-- What's actually happening? -->
