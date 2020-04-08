@@ -1,0 +1,25 @@
+{
+  "name": "kandahar-ihs",
+  "version": "1.0.0",
+  "description": "Kandahar Institute of Health Science Database System",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCodeXTeam/Kandahar-IHS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheCodeXTeam/Kandahar-IHS/issues"
+  },
+  "homepage": "https://github.com/TheCodeXTeam/Kandahar-IHS#readme",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.13.0"
+  }
+}
